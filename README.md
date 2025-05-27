@@ -5,5 +5,5 @@
 <p>There are Two Buttons, A "Click Me" and a "Click Me Too"Button. The click me button triggers the alert<br> and the click me too button triggers the colour change.</p>
 <h2>Why that interaction</h2>
 <p> I wanted my page to have some cheeky personality and I wanted to see if I could achove the colour change.</p>
-<h2>Challenges and decisions?</h2>h2>
+<h2>Challenges and decisions?</h2>
 <p>Gettign all the Sytax exactly right and having to comb through and double check everythign that I've typed  was frustating and tiem consuming.</p>
